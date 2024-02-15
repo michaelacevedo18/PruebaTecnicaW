@@ -1,0 +1,8 @@
+Cordial greetings below I comment on points of the development carried out, a solution is created with 3 projects
+developed in .Net in its version 6, the first of them is a console application for the test for the chessboard where
+I assume the operation of the knight movements there I perform tests and print on console the moves and evaluate the 
+different moves,  the second project is the console application for the point of consumption of the API (as a finding 
+you have that the described method does not exist or that the API is out of operation so simulate the behavior of the 
+API to be able to complete the test according to the request)In a third project, unit tests are carried out wishing 
+that what was requested has been what was done, I am grateful for the opportunity and it will always be a pleasure to 
+know about this company
